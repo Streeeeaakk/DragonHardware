@@ -1,0 +1,56 @@
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\bin\Release\DragonHardware.exe
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\bin\Release\DragonHardware.pdb
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.editItems.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_login.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_user.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_acc.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_user.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_close.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_acc.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.csproj.GenerateResource.Cache
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.exe
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.pdb
+C:\Users\JullianLance\Desktop\ils\New folder (2)\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.archive.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\bin\Release\DragonHardware.exe
+C:\Users\User\Desktop\DragonHardware\DragonHardware\bin\Release\DragonHardware.pdb
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.acc_details.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.archive.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_accc.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_details.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.categoryy.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.editItems.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_login.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_user.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_acc.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_user.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_close.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_acc.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.updatecateg.resources
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.exe
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.pdb
+C:\Users\User\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.Inventoryacc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\bin\Release\DragonHardware.exe
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\bin\Release\DragonHardware.pdb
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.csprojResolveAssemblyReference.cache
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.acc_details.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.archive.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_accc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_details.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.categoryy.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.editItems.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.Inventoryacc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.inven_acc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_login.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_user.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.admin_acc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_user.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.main_close.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.cashier_acc.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\WindowsFormsApplication1.updatecateg.resources
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.csproj.GenerateResource.Cache
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.exe
+C:\Users\JullianLance\Desktop\DragonHardware\DragonHardware\obj\x86\Release\DragonHardware.pdb

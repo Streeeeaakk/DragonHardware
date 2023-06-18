@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D7D4DDF-C8F6-4A26-815B-A6953CFD9551}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>DragonHardware</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acc_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc_details.Designer.cs">
+      <DependentUpon>acc_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addItem.Designer.cs">
+      <DependentUpon>addItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addmeasurement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addmeasurement.Designer.cs">
+      <DependentUpon>addmeasurement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addstock.Designer.cs">
+      <DependentUpon>addstock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="archive.Designer.cs">
+      <DependentUpon>archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_accc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_accc.Designer.cs">
+      <DependentUpon>cashier_accc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_details.Designer.cs">
+      <DependentUpon>cashier_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="categoryy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="categoryy.Designer.cs">
+      <DependentUpon>categoryy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="edithistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edithistory.Designer.cs">
+      <DependentUpon>edithistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editItems.Designer.cs">
+      <DependentUpon>editItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editmeasure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editmeasure.Designer.cs">
+      <DependentUpon>editmeasure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventoryacc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventoryacc.Designer.cs">
+      <DependentUpon>Inventoryacc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inven_acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inven_acc.Designer.cs">
+      <DependentUpon>inven_acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_login.Designer.cs">
+      <DependentUpon>main_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_user.Designer.cs">
+      <DependentUpon>admin_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_acc.Designer.cs">
+      <DependentUpon>admin_acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_user.Designer.cs">
+      <DependentUpon>cashier_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_close.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_close.Designer.cs">
+      <DependentUpon>main_close.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_acc.Designer.cs">
+      <DependentUpon>cashier_acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchasehistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchasehistory.Designer.cs">
+      <DependentUpon>purchasehistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="restock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="restock.Designer.cs">
+      <DependentUpon>restock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatecateg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatecateg.Designer.cs">
+      <DependentUpon>updatecateg.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acc_details.resx">
+      <DependentUpon>acc_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addItem.resx">
+      <DependentUpon>addItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addmeasurement.resx">
+      <DependentUpon>addmeasurement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addstock.resx">
+      <DependentUpon>addstock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="archive.resx">
+      <DependentUpon>archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_accc.resx">
+      <DependentUpon>cashier_accc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_details.resx">
+      <DependentUpon>cashier_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="categoryy.resx">
+      <DependentUpon>categoryy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edithistory.resx">
+      <DependentUpon>edithistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editItems.resx">
+      <DependentUpon>editItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editmeasure.resx">
+      <DependentUpon>editmeasure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventoryacc.resx">
+      <DependentUpon>Inventoryacc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inven_acc.resx">
+      <DependentUpon>inven_acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_login.resx">
+      <DependentUpon>main_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_user.resx">
+      <DependentUpon>admin_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_acc.resx">
+      <DependentUpon>admin_acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_user.resx">
+      <DependentUpon>cashier_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_close.resx">
+      <DependentUpon>main_close.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_acc.resx">
+      <DependentUpon>cashier_acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="purchasehistory.resx">
+      <DependentUpon>purchasehistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="restock.resx">
+      <DependentUpon>restock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatecateg.resx">
+      <DependentUpon>updatecateg.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
